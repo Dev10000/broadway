@@ -1,0 +1,48 @@
+body {
+    font-family: Helvetica;
+    text-align: center;
+}
+
+.hero h1 {
+    font-size: 70px;
+    font-weight: bold;
+    color: white;
+}
+
+nav {
+    font-size: 18px;
+    color: white;
+}
+
+.nav {
+    font-size: 18px;
+    color: white;
+    text-align: left;
+}
+
+.sections h2 {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.sections h3 {
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.sections p {
+    font-size: 14px;
+}
+
+.separator h3 {
+    font-size: 23px;
+    font-weight: bold;
+    color: white;
+}
+
+.copyright {
+    font-size: 11px;
+    color: white;
+    background-color: dimgray;
+    text-align: left;
+}
