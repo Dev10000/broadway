@@ -13,15 +13,10 @@ body {
     color: white;
 }
 
-nav {
+nav p a {
     font-size: 18px;
+    margin: 16px 0px;
     color: white;
-}
-
-.nav {
-    font-size: 18px;
-    color: white;
-    text-align: left;
 }
 
 .sections h2 {
@@ -45,9 +40,12 @@ nav {
     background-image: url(../images/the-flatiron-building.png);
 }
 
-.copyright {
+footer nav {
+    text-align: left;
+    background-color: dimgray;
+}
+
+footer .copyright {
     font-size: 11px;
     color: white;
-    background-color: dimgray;
-    text-align: left;
 }
